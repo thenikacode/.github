@@ -6,6 +6,6 @@ My ideas can free you from yours.
 
 Claude Code agents build. Critic agents push back. I say yes or no, usually from my phone.
 
-Here I give the ideas away as code. The first drop is coming.
+Here I give the ideas away as code. First drop: [keep-or-rebuild](https://github.com/thenikacode/keep-or-rebuild), a Claude Code skill that tells you to keep paying, switch, or rebuild what you use.
 
 **→ [Follow the build on X: @thenikacode](https://x.com/thenikacode)**
